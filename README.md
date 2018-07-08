@@ -1,4 +1,11 @@
 # 后台管理系统安装和启动方式
+
+## 测试账号及密码：
+```
+    账号：admin
+    密码：admin
+```
+
 ## 环境依赖:
 ```
 安装 nodejs v6.12.3版本
@@ -24,7 +31,8 @@ yarn run dist_win
 # 技术及主要功能
 ## 技术栈：
 ```
-react16 + react-router4 + redux + webpack + yarn + sass
+    react16 + react-router4 + redux + webpack + yarn + sass + es6/es7
+    同时，用promise封装了jquery的ajax，公共模块和方法，接口也都封装在了util文件目录下
 ```
 ## 架构:
     采用了前后端分离，分层化设计，模块化开发
@@ -35,6 +43,7 @@ react16 + react-router4 + redux + webpack + yarn + sass
     3.品类模块（品类列表，添加品类，修改品类名称）
     4.订单模块（订单列表，订单详情，发货）
 ```
+
 # 部分截图如下：
 
 ![主页](https://raw.githubusercontent.com/dj49846917/react-system/master/static/goods.png)
