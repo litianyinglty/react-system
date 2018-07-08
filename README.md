@@ -37,6 +37,6 @@ react16 + react-router4 + redux + webpack + yarn + sass
 ```
 #部分截图如下：
 
-![home](https://github.com/dj49846917/react-system/tree/master/static/home.jpg)
+![home](https://github.com/dj49846917/react-system/tree/master/static/home.png)
 
 
