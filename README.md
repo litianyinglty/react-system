@@ -37,6 +37,9 @@ react16 + react-router4 + redux + webpack + yarn + sass
 ```
 # 部分截图如下：
 
-![home](https://raw.githubusercontent.com/dj49846917/react-system/master/static/goods.png)
+![主页](https://raw.githubusercontent.com/dj49846917/react-system/master/static/goods.png)
+![商品页](https://raw.githubusercontent.com/dj49846917/react-system/master/static/goods.png)
+![添加商品页](https://raw.githubusercontent.com/dj49846917/react-system/master/static/addGoods.png)
+![人员列表页](https://raw.githubusercontent.com/dj49846917/react-system/master/static/personList.png)
 
 
