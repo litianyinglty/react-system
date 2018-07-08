@@ -35,8 +35,8 @@ react16 + react-router4 + redux + webpack + yarn + sass
     3.品类模块（品类列表，添加品类，修改品类名称）
     4.订单模块（订单列表，订单详情，发货）
 ```
-#部分截图如下：
+# 部分截图如下：
 
-![home](https://github.com/dj49846917/react-system/tree/master/static/home.png)
+![home](https://raw.githubusercontent.com/dj49846917/react-system/master/static/goods.png)
 
 
